@@ -11,10 +11,10 @@ pip install keyboard pygetwindow pyautogui
 ```
 ## Usage
 
--     Ensure you have Python 3.x installed.
--     Clone this repository or download the logger.py script.
--     Open a terminal/command prompt and navigate to the folder containing the script.
--     Run the script with the following command:
+- Ensure you have Python 3.x installed.
+- Clone this repository or download the logger.py script.
+- Open a terminal/command prompt and navigate to the folder containing the script.
+- Run the script with the following command:
 
 ```bash
 
